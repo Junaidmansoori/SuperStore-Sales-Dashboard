@@ -157,14 +157,12 @@ The project demonstrates practical knowledge of:
 
 ## 📂 Project Files
 
-```text
-Superstore-Sales-PowerBI/
+📁 Superstore-Sales-PowerBI
 │
-├── Superstore_Sales_Dashboard.pbix
-├── README.md
-└── dataset/
-    └── Superstore_Sales_Dataset.csv
-```
+├── 📄 README.md
+├── 🖼️ Slide-1.png
+├── 🖼️ Slide-2.png
+└── 📊 Superstore_Sales_Dashboard.pbix
 
 ---
 
